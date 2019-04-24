@@ -6,3 +6,4 @@ test push origin0 master.
 Creating a new branch is quick.
 Now I Create a branch,but i don't find something happend in the dictionary.
 Now i will create a conflict
+
