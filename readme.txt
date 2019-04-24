@@ -5,3 +5,5 @@ git tracks changes of files.
 test push origin0 master.
 Creating a new branch is quick.
 Now I Create a branch,but i don't find something happend in the dictionary.
+Creating a new branch is quick and simple.
+Now I create a branch named featurel.learn how to solve conflict.
