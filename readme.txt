@@ -8,3 +8,4 @@ Now I Create a branch,but i don't find something happend in the dictionary.
 Now i will create a conflict
 
 this is  dev.
+Now i repairing the bug!
